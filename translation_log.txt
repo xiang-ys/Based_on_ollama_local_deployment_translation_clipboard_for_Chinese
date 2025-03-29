@@ -1,0 +1,10 @@
+[WARNING] 19:47:44.551 - Ollama服务检测失败: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002BCEC7EB5D0>, 'Connection to localhost timed out. (connect timeout=2)'))
+[INFO] 19:47:44.579 - 尝试启动Ollama服务 (重试 1/3)...
+[INFO] 19:47:48.612 - Ollama服务启动成功
+[INFO] 19:47:48.675 - 已加载8个模型，默认选择: gemma3:1b
+[INFO] 19:47:48.678 - 翻译缓存已清空
+[INFO] 19:47:59.436 - 已切换模型: gemma3:latest
+[INFO] 19:47:59.442 - 翻译缓存已清空
+[INFO] 19:48:02.309 - 开始监控剪贴板...
+[INFO] 19:48:34.907 - 开始翻译: OllamaTranslator...
+[INFO] 19:48:44.756 - 已停止监控
