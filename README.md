@@ -6,7 +6,12 @@
 
 一个基于 Ollama 本地 AI 模型的剪贴板翻译工具，支持实时监控、智能缓存和高效翻译。
 
-![应用截图]
+![主界面](assets/main_window.png)
+
+## 功能演示
+| 监控状态 | 翻译弹窗 |
+|----------|----------|
+| ![监控中](assets/window.png) | ![翻译结果](assets/translation_popup.png) |
 
 ## 功能特点
 
@@ -40,7 +45,7 @@
 ### 安装步骤
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/ollama-translator.git
+   git clone https://github.com/xiang-ys/Based_on_ollama_local_deployment_translation_clipboard_for_Chinese.git
    cd ollama-translator
    ```
 
@@ -122,4 +127,4 @@ MAX_RETRIES = 3          # 最大重试次数
 本项目采用 [MIT 许可证](LICENSE)
 
 ---
-> 由 [YourName] 开发 · [报告问题](https://github.com/xiang-ys/Based_on_ollama_local_deployment_translation_clipboard_for_Chinese.git)
+> 由 [xiang_ys] 开发 · [报告问题](https://github.com/xiang-ys/Based_on_ollama_local_deployment_translation_clipboard_for_Chinese.git)

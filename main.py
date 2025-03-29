@@ -15,7 +15,7 @@ from collections import OrderedDict
 class OllamaTranslator:
     def __init__(self, root):
         self.root = root
-        self.root.title("Ollama 剪贴板翻译器 (优化版)")
+        self.root.title("Ollama 剪贴板翻译器")
         self.root.attributes('-topmost', True)
         
         # 运行状态变量
