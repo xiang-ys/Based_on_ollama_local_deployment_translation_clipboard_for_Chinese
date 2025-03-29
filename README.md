@@ -46,7 +46,6 @@
 1. 克隆仓库：
    ```bash
    git clone https://github.com/xiang-ys/Based_on_ollama_local_deployment_translation_clipboard_for_Chinese.git
-   cd ollama-translator
    ```
 
 2. 安装依赖：
