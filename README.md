@@ -122,14 +122,4 @@ MAX_RETRIES = 3          # 最大重试次数
 本项目采用 [MIT 许可证](LICENSE)
 
 ---
-> 由 [YourName] 开发 · [报告问题](https://github.com/yourusername/ollama-translator/issues)
-```
-
-### 使用建议
-
-1. 将 `yourusername` 替换为您的 GitHub 用户名
-2. 添加真实截图替换 placeholder 图片
-3. 如果需要更详细的技术文档，可以添加 `API.md`
-4. 对于非技术用户，建议提供打包好的可执行文件
-
-这个 README 包含了用户需要的所有关键信息，同时保持了专业简洁的风格。您可以根据实际项目情况调整各部分内容。
+> 由 [YourName] 开发 · [报告问题](https://github.com/xiang-ys/Based_on_ollama_local_deployment_translation_clipboard_for_Chinese.git)
